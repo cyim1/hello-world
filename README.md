@@ -1,2 +1,1 @@
-# hello-world
-a short description
+This is the updated README.
